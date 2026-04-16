@@ -1,4 +1,4 @@
-# Quantum Barrier Scattering
+# Spooky Quantum Barrier Scattering
 
 A computational exploration of quantum mechanical scattering 
 in natural units (ℏ=1, m=1). This notebook implements exact 
